@@ -1,0 +1,81 @@
+*primerry_color{
+    rgba(255, 89, 89, 1)
+    margin: 0;
+    padding: 0;
+}
+.total_nav{
+    width: auto;
+    height: 700px;
+    background: url(images/banner/banner2.png);
+}
+
+.total_nav{
+    text-align: right;
+    font-family: 'Work Sans';
+}
+.hero{
+    padding-top: 100px;
+    padding-right: 150px;
+}
+.nav_heading{
+    font-style: normal;
+    font-weight: 350;
+    font-size: 45px;
+    line-height: 75px;
+    text-align: right;
+    color: #151414;
+}
+
+.nav_description{
+    margin-top: -25px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+}
+
+.nav_button button{
+    width: 160px;
+    height: 64px;
+    background: #F15B22;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 1025px;
+    margin-top: 25px;
+    border: none;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.image_withbg{
+    height: 500px;
+}
+.failures{
+    display: flex;
+    margin: 55px 55px 85px;
+    height: 500px;
+
+}
+
+.failures_maine{
+    padding-left: 45px;
+    margin-top: 200px;
+    text-align: left;
+}
+.failures_heading{
+    font-weight: 500;
+    font-size: 30px;
+    color: #151414;
+}
+
+.failures_description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
