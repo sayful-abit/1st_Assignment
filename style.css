@@ -30,7 +30,7 @@
     margin-top: -25px;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 26px;
     text-align: right;
     color: #444343;
@@ -55,14 +55,14 @@
 }
 .failures{
     display: flex;
-    margin: 55px 55px 85px;
-    height: 500px;
+    margin: 55px 55px 80px;
+    height: 450px;
 
 }
 
 .failures_maine{
-    padding-left: 45px;
-    margin-top: 200px;
+    padding-left: 35px;
+    margin-top: 80px;
     text-align: left;
 }
 .failures_heading{
@@ -70,12 +70,67 @@
     font-size: 30px;
     color: #151414;
 }
-
 .failures_description{
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 26px;
     color: #444343;
+}
+.failures_checklist{
+    list-style: none;
+    line-height: 30px;
+    width: 306px;
+    height: 26px;
+    font-size: 20px;
+}
+.failures_checklist ul{
+    list-style: none;
+    
+}
+.fa-regular{
+    color: #089e03;
+    size: 15px;
+}
+.plan_heading{
+    margin-top: 350px;
+    text-align: center;
+    font-size: x-large;
+}
 
+.my_plan{
+    display: flex;
+    width: 1000px;
+    height: auto;
+    gap: 55px;
+    margin-top: 50px;
+    margin-left: 275px;
+}
+
+.icon_heading{
+    text-align: center;
+    color: #151414;
+}
+.icon_description{
+    text-align: center;
+    color: #737272;
+}
+
+.development{
+    text-align: center;
+}
+.script{
+    text-align: center;
+}
+.habit{
+    text-align: center;
+}
+.watch{
+    margin-top: 100px;
+    width: 500px;
+    height: auto;
+    margin-left: 150px;
+    /* background:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
+    background-image: url("images/watch.png")
+    
 }
 
