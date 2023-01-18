@@ -178,9 +178,18 @@
 }
 
 .subscribe{
-    color: #ffffff;
-    margin-right: 150px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+        color: #ffffff;
+        margin-right: 150px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border: 0;
+        padding: 15px;
+}
+
+.box_nmm{
+    margin-bottom: 15px;
+    border-radius: 18px;
+    
+
 }
 
