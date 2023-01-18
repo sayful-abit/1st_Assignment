@@ -15,7 +15,7 @@
     font-family: 'Work Sans';
 }
 .hero{
-    padding-top: 100px;
+    padding-top: 60px;
     padding-right: 150px;
 }
 .nav_heading{
@@ -185,10 +185,33 @@
         border: 0;
         padding: 15px;
 }
+.future_heading{
+    font-family: 'Work Sans';
+    font-size: 25px;
+
+}
+.subs_heading{
+    font-family: 'Work Sans';
+    font-size: 25px;
+}
+.box_nmm textarea{
+    padding: 15px;
+    border-radius: 3px;
+}
+
+.future_describtion{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
 
 .box_nmm input{
     padding: 10px;
     margin-bottom: 15px;
+    box-shadow: #ffffff;
+    border-radius: 3px;
 }
 .social_icon{
     display: flex;
