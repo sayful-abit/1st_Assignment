@@ -180,7 +180,7 @@
 .subscribe{
         color: #ffffff;
         margin-right: 150px;
-        margin-top: 50px;
+        margin-top: 40px;
         margin-bottom: 50px;
         border: 0;
         padding: 15px;
@@ -189,7 +189,27 @@
 .box_nmm{
     margin-bottom: 15px;
     border-radius: 18px;
-    
+    /* height: 50px; */
+}
+.social_icon{
+    display: flex;
+    gap: 20px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+.submit_btn button{
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
 
 }
-
+.coppy_write{
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
