@@ -1,3 +1,4 @@
+
 *primerry_color{
     rgba(255, 89, 89, 1)
     margin: 0;
@@ -158,5 +159,28 @@
     border-radius: 5px;
     border: none;
 
+}
+
+/* footre start */
+.footer_container{
+    background: #151414;
+    margin-top: 50px;
+}
+.main_footer{
+    display: flex;
+    gap: 350px;
+    
+}
+.future{
+    color: #ffffff;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.subscribe{
+    color: #ffffff;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
